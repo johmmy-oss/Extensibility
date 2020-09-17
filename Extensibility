@@ -1,0 +1,9 @@
+A major feature of the Office suite is the ability for users and third party companies to write add-ins (plug-ins) that extend the capabilities of an application by adding custom commands and specialized features. One of the new features is the Office Store.[47] Plugins and other tools can be downloaded by users.[48] Developers can make money by selling their applications in the Office Store. The revenue is divided between the developer and Microsoft where the developer gets 80% of the money.[49] Developers are able to share applications with all Office users.[49]
+
+The app travels with the document, and it is for the developer to decide what the recipient will see when they open it. The recipient will either have the option to download the app from the Office Store for free, start a free trial or be directed to payment.[49] With Office's cloud abilities, IT department can create a set of apps for their business employees in order to increase their productivity.[50] When employees go to the Office Store, they'll see their company's apps under My Organization. The apps that employees have personally downloaded will appear under My Apps.[49] Developers can use web technologies like HTML5, XML, CSS3, JavaScript, and APIs for building the apps.[51] An application for Office is a webpage that is hosted inside an Office client application. User can use apps to amplify the functionality of a document, email message, meeting request, or appointment. Apps can run in multiple environments and by multiple clients, including rich Office desktop clients, Office Web Apps, mobile browsers, and also on-premises and in the cloud.[51] The type of add-ins supported differ by Office versions:
+
+Office 97 onwards (standard Windows DLLs i.e. Word WLLs and Excel XLLs)
+Office 2000 onwards (COM add-ins)[52]
+Office XP onwards (COM/OLE Automation add-ins)[53]
+Office 2003 onwards (Managed code add-ins – VSTO solutions)[54]office.com/setup
+https://office-settup.com/
